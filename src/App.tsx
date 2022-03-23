@@ -38,7 +38,7 @@ const App: React.FC = () => {
 
   return (
     <div className="App">
-      <h1>The TodoApp!</h1>
+      <h1>The To-do App!</h1>
       <main>
         <React.Fragment>
           {/**Include the list */}
